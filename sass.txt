@@ -1,0 +1,4 @@
+sass  --watch C:\Users\Admin\Dropbox\Iqbal\outstock\assets\scss\main.scss:C:\Users\Admin\Dropbox\Iqbal\outstock\assets\css\style.css
+
+
+sass --watch "C:\Users\Admin\Dropbox\Harun Pure\outstock\assets\scss\main.scss":"C:\Users\Admin\Dropbox\Harun Pure\outstock\assets\css\style.css"
